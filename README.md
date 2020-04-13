@@ -1,3 +1,4 @@
 # Spring-2020-Compiler-Design
-- A simple compiler which contains lexical analyzer, syntax analyzer, and code generator.
+- A small subset of C front-end compiler which generating RISC-V assembly codes.
+- Including lexical analyzer, syntax analyzer, and code generator.
 - To be released.
