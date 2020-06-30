@@ -1,6 +1,6 @@
 # Part3: Code Generator
 
-A code generator based on [part1](https://github.com/kuanhungchen/Spring-2020-Compiler-Design/tree/master/part1) and [part2](https://github.com/kuanhungchen/Spring-2020-Compiler-Design/tree/master/part2).  
+A code generator based on [part1](./part1) and [part2](./part2).  
 The code generated is targeted to Andes Corvette-F1-N25 board (see [here](http://www.andestech.com/en/products-solutions/andeshape-platforms/corvette-f1-n25/)).
 
 ## Implementation
