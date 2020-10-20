@@ -4,4 +4,10 @@
 - Part 2: [Syntax Analyzer](./part2)
 - Part 3: [Code Generator](./part3)
 
-Feel free to fire issues or mail if you need more information!
+## Usage
+
+Coming soon, please stay tuned.
+
+## Others
+
+Feel free to email me at [khc@gapp.nthu.edu.tw](mailto:khc@gapp.nthu.edu.tw) or open an issue here if you have any ideas.
